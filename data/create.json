@@ -1,0 +1,19 @@
+{
+  "context": {
+    "tenantId": "ID",
+    "appId": "CRM",
+    "userId": "usersId"
+  },
+  "productLicensePojo": {
+    "licenseType": "1",
+    "startTime": 979289751366,
+    "expiredTime": 1547274771941,
+    "gracePeriod": 5,
+    "actualExpiredTime": 0,
+    "maxHeadCount": "0",
+    "productName": "CRM",
+    "productVersion": "standardpro_edition",
+    "productType":"0",
+     "productInfoPojo": null
+  }
+}

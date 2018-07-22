@@ -1,0 +1,30 @@
+{
+	"context": {
+		"tenantId": "ID",
+		"appId": "CRM",
+		"userId": "usersId"
+	},
+	"productLicensePojo": {
+		"id": "DataID",
+		"licenseType": "1",
+		"productId": "593fe5266886294059539899",
+		"startTime": 1495016131668,
+		"expiredTime": 1526552131669,
+		"gracePeriod": 0,
+		"actualExpiredTime": 0,
+		"maxHeadCount": 100,
+		"productName": "CRM",
+		"productVersion": "extention_package",
+		"productType": "1",
+		"productInfoPojo": {
+			"unitPrice": 0,
+			"moduleInfoPojoList": [{
+
+				"moduleName": "自定义对象",
+				"moduleCode": "custom_object",
+				"moduleParaPojos": []
+
+			}]
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{
+  "context": {
+    "tenantId": "ID",
+    "appId": "CRM",
+    "userId": "usersId"
+  },
+  "productLicenseIdList": [
+    "DataID"
+  ]
+}
